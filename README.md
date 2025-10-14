@@ -71,4 +71,4 @@ Os principais arquivos para este projeto de fundamentos estão localizados em:
 
 ## 👤 Autor
 
-[Seu Nome/Nickname] - ([Link para seu GitHub](URL-DO-SEU-GITHUB))
+Kellyane Caldas
